@@ -1,3 +1,0 @@
-54 "ejemplo de \"cadena\""
-
-"Cadena sin cerrar
